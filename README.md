@@ -59,5 +59,5 @@ Dane zostały przygotowane tak, aby jak najbardziej przypominać scenariusz rzec
 ## Jak uruchomić
 1. Otwórz plik "main_beautysales.sql" w PostgreSQL
 2. Wykonaj cały skrypt sekwencyjnie
-3. Przejrzyj wyniki analiz na końcu pliku
+3. Przejrzyj wyniki analiz
 
